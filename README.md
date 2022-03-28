@@ -1,4 +1,4 @@
-## Oiii eu sou Leonardo Farias, desenvolvedor Web Front-End React/React Native!
+## Oi eu sou Leonardo Farias, desenvolvedor Web Front-End React/React Native!
 <div align="center">
   <a href="https://github.com/leofarias07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofarias07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
